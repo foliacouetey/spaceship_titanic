@@ -7,18 +7,18 @@ This project aims to predict if a passanger on a titanic spaceship has been tran
 ```
 
 spaceship_titanic/
-├──── .gitignore
-├──── LICENSE
-├──── README.md
-└──── PYTHON/
-       ├──── requirements.txt
-       ├──── data/
-       │       ├──── train/
-       │       │       └──── train.csv
-       │       └──── test/
-       │               └──── test.csv
-       └──── scripts/
-               └──── main.ipynb
+            ├──── .gitignore
+            ├──── LICENSE
+            ├──── README.md
+            └──── PYTHON/
+                   ├──── requirements.txt
+                   ├──── data/
+                   │       ├──── train/
+                   │       │       └──── train.csv
+                   │       └──── test/
+                   │               └──── test.csv
+                   └──── scripts/
+                         └──── main.ipynb
 
 
 ```
