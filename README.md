@@ -6,7 +6,7 @@ This project aims to predict if a passanger on a titanic spaceship has been tran
 
 ```
 
-houses_prices/
+spaceship_titanic/
 ├──── .gitignore
 ├──── LICENSE
 ├──── README.md
